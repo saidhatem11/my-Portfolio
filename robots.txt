@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saidhatem11.github.io/my-Portfolio/sitemap.xml
